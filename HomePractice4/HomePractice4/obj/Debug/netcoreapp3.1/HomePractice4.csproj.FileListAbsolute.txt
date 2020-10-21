@@ -1,0 +1,13 @@
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.exe
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.deps.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.runtimeconfig.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.runtimeconfig.dev.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.dll
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\bin\Debug\netcoreapp3.1\HomePractice4.pdb
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.csprojAssemblyReference.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.AssemblyInfoInputs.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.AssemblyInfo.cs
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.csproj.CoreCompileInputs.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.dll
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.pdb
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice4\HomePractice4\obj\Debug\netcoreapp3.1\HomePractice4.genruntimeconfig.cache

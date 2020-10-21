@@ -1,0 +1,13 @@
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.exe
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.dll
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\bin\Debug\netcoreapp3.1\Array.pdb
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.dll
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.pdb
+E:\Soft Dev\Pro C# Dev skill\Home practice\HomePractice2\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

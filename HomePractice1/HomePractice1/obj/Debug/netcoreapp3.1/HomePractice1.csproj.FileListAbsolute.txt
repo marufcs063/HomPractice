@@ -1,0 +1,13 @@
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.exe
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.deps.json
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.runtimeconfig.json
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.runtimeconfig.dev.json
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.dll
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\bin\Debug\netcoreapp3.1\HomePractice1.pdb
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.csprojAssemblyReference.cache
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.AssemblyInfoInputs.cache
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.AssemblyInfo.cs
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.dll
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.pdb
+C:\Users\Abdullah.B.Maruf\source\repos\HomePractice1\HomePractice1\obj\Debug\netcoreapp3.1\HomePractice1.genruntimeconfig.cache
