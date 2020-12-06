@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryOperation", "DirectoryOperation\DirectoryOperation.csproj", "{0A55F166-B107-4A48-817F-5D608DCFD029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectoryOperation", "DirectoryOperation\DirectoryOperation.csproj", "{0A55F166-B107-4A48-817F-5D608DCFD029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONet", "ADONet\ADONet.csproj", "{65705AD8-9591-4A81-9D04-6111D85E14A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A55F166-B107-4A48-817F-5D608DCFD029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A55F166-B107-4A48-817F-5D608DCFD029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A55F166-B107-4A48-817F-5D608DCFD029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65705AD8-9591-4A81-9D04-6111D85E14A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65705AD8-9591-4A81-9D04-6111D85E14A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65705AD8-9591-4A81-9D04-6111D85E14A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65705AD8-9591-4A81-9D04-6111D85E14A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
