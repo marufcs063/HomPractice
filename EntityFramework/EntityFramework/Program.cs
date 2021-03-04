@@ -8,16 +8,18 @@ namespace EntityFramework
         {
             using (PersonContext pc = new PersonContext())
             {
-                pc.Perosns.AddRange
-                    (
-                     new Person { Name = "Isaac Newton" },
-                     new Person { Name = "C.F Gauss" },
-                     new Person { Name = "Albert Einstein"}
-                     );
-                     
+                var person = new Person() { Name = "Isaac Newton" };
+                pc.Add(person);
+                //pc.Perosns.AddRange
+                //    (
+                //     new Person { Name = "Isaac Newton" },
+                //     new Person { Name = "C.F Gauss" },
+                //     new Person { Name = "Albert Einstein" }
+                //     );
 
 
-                    
+
+
                 pc.SaveChanges();
             }
         }
